@@ -12,7 +12,7 @@ export default function Skills() {
             Skills &amp; Technologies
           </h1>
           <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
-            Voici une partie des outils avec lesquels j'ai travaillé le plus.
+            Here are some of the tools/technologies I've already used in my projects.
           </p>
         </div>
         <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">
