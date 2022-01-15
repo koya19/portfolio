@@ -10,7 +10,7 @@ export default function About() {
             <br className="hidden lg:inline-block" />I'm an frontend developper.
           </h1>
           <p className="mb-8 leading-relaxed">
-            I'm LAHBIL Mohammed, a student in my last year of Software Engineering and I'm looking for an end of term internship in web development.
+            I'm LAHBIL Mohammed, a student in my last year of Software Engineering in the International Academy of Civil Aviation (AIAC) and I'm looking for an end of term internship in web development.
           </p>
           <div className="flex justify-center">
             <a
