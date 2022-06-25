@@ -46,4 +46,4 @@ export const testimonials = [
   }
 ];
 
-export const skills = ["Angular", "ReactJs", "Java", "Spring", "HTMLS/CSS", "JavaScript", "FireBase", "Python", "WordPress", "Figma", "Github"];
+export const skills = ["Angular", "ReactJs", "Java", "Spring", "HTMLS/CSS", "JavaScript", "TypeScript", "FireBase", "Python", "MySQL", "Postgres", "WordPress", "Figma", "Github"];

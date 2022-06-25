@@ -7,21 +7,22 @@ export default function About() {
         <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
             Hi, I'm Mohammed.
-            <br className="hidden lg:inline-block" />I'm an frontend developper.
+            <br className="hidden lg:inline-block" />I'm a software engineer / frontend developer.
           </h1>
           <p className="mb-8 leading-relaxed">
-            I'm LAHBIL Mohammed, a student in my last year of Software Engineering in the International Academy of Civil Aviation (AIAC) and I'm looking for an end of term internship in web development.
+            Graduated from the International Academy of Civil Aviation (AIAC) and had some internships in some well known entreprises such as Atos, Axelor... <br/>I'm looking for a full-time job in web development.
           </p>
           <div className="flex justify-center">
             <a
               href="#contact"
               className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg">
-              Work With Me
+              Hire me
             </a>
             <a
-              href="#projects"
+              href="CV_Mohammed-Lahbil.pdf"
+              target="_blank"
               className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg">
-              See My Past Work
+              My Resume
             </a>
           </div>
         </div>
