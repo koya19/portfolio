@@ -7,6 +7,14 @@ export const projects = [
     link: "https://diginerva-consulting.netlify.app/"
   },
   {
+    title: "SarahAirways",
+    subtitle: "Management website",
+    description:
+      "Web Application de gestion de stock et de matériel",
+    image: "./projet-sarahairways.png",
+    link: "https://sarahairways.web.app/",
+  },
+  {
     title: "Confédération des Junior-Entreprises Marocaines",
     subtitle: "CJEM Website",
     description:
@@ -21,14 +29,6 @@ export const projects = [
       "Quincop.ma est une plateforme marocaine dédiée spécialement aux coopératives",
     image: "./projet-quincop.png",
     link: "https://quincop.ma/",
-  },
-  {
-    title: "SarahAirways",
-    subtitle: "Management website",
-    description:
-      "Web Application de gestion de stock et de matériel",
-    image: "./projet-sarahairways.png",
-    link: "https://sarahairways.web.app/",
   },
 ];
 
