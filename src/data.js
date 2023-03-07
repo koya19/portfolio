@@ -1,5 +1,12 @@
 export const projects = [
   {
+    title: "Diginerva Consulting",
+    subtitle: "Entreprise website",
+    description: "Entreprise de marketing digital",
+    image:"./project-diginerva.png",
+    link: "https://diginerva-consulting.netlify.app/"
+  },
+  {
     title: "Confédération des Junior-Entreprises Marocaines",
     subtitle: "CJEM Website",
     description:
