@@ -53,4 +53,4 @@ export const testimonials = [
   }
 ];
 
-export const skills = ["Angular", "ReactJs", "Vue.js", "Java", "Spring boot", "HTMLS/CSS", "JavaScript", "TypeScript", "liquibase", "Python", "MySQL", "Postgres", "WordPress", "Figma", "Github/Gitlab"];
+export const skills = ["Angular", "ReactJs", "Vue.js", "Java", "Spring boot", "HTMLS/CSS", "JavaScript/TypeScript", "liquibase", "Python", "MySQL", "Postgres", "WordPress", "Figma", "Github/Gitlab"];
