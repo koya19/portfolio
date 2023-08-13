@@ -4,7 +4,7 @@ export const projects = [
     subtitle: "Entreprise website",
     description: "Entreprise de marketing digital",
     image:"./project-diginerva.png",
-    link: "https://diginerva.netlify.app/"
+    link: "https://diginerva-9de26.web.app/"
   },
   {
     title: "SarahAirways",
